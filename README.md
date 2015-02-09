@@ -47,9 +47,9 @@ This repo will only contain the necessary files to get started so it suits someo
 ## Other Improvements
 
 * The framework is now separate and pulled in by composer. Located [here](https://github.com/getherbert/framework)
-* Removed Traits and now use the `Container` from `Illuminate/Support`
+* Removed Traits and now we use the `Container` from `Illuminate/Support`
 * Being able to override Twig Provider
 
 ## Feedback
 
-We want to know if this is the right direction for the framework so please let us know what you think.
+We want to know if this is the right direction for the framework so please let us know what you think. Post any [feedback here](https://github.com/getherbert/herbert/issues/14)
